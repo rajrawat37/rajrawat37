@@ -13,5 +13,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajrawat37&color=2ecc71&style=flat-square" alt="Profile views" style="width: 180px;" />
+  <img src="https://komarev.com/ghpvc/?username=rajrawat37&color=2ecc71&style=flat-square" alt="Profile views" style="width: 130px;" />
 </p>
