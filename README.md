@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajrawat37&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajraawatt&theme=github_dark" />
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=rajrawat37&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" width="430" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrawat37&layout=compact&theme=github_dark" width="325" /> -->
 </div>
